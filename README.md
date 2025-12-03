@@ -3,4 +3,5 @@ A simple Python-based Digital Clock built using Tkinter. It displays the current
 A clean, centered window opens with a bright yellow background.
 The time is displayed in large, bold Calibri font, making it look like a real digital clock.
 
-Output : <img width="466" height="248" alt="Screenshot 2025-12-03 235537" src="https://github.com/user-attachments/assets/d1aafe1c-cd5e-4761-b5de-32b6721c0d85" />
+Output : 
+<img width="466" height="248" alt="Screenshot 2025-12-03 235537" src="https://github.com/user-attachments/assets/d1aafe1c-cd5e-4761-b5de-32b6721c0d85" />
